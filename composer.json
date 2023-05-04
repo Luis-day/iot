@@ -1,0 +1,22 @@
+{
+    "name": "itess/iot",
+    "description": "Registro de Iot",
+    "minimum-stability": "stable",
+    "license": "Apache-2.0",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Luis Antonio Najera Flores & Dayana Machuca Hernández",
+            "email": "luisantonionajeraflores@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "Iot\\Tests\\": "tests",
+            "Iot\\": "src"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "db": {
+    "user": "root",
+    "password": ""
+  },
+   "login": {
+      "controller":"Login",
+      "method":"login"
+   }
+}
