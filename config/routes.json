@@ -14,6 +14,10 @@
   "registro": {
     "controller": "Usuario",
     "method": "registro"
+  },
+  "boton/agregar": {
+    "controller": "Boton",
+    "method": "agregar"
   }
     
 }
